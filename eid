@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عيديات العيد</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f9fa;
+            padding: 50px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #d9534f;
+        }
+        p {
+            font-size: 18px;
+            color: #5a5a5a;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>عفوًا!</h1>
+        <p>لقد تجاوز عمرك الـ 10 أعوام ولم تعد مؤهلًا لاستلام عيدية 😂</p>
+        <p>عليك أنت بدفع عيدية للأطفال!</p>
+        <p>عيدك مبارك، وكل سنة وأنت طيب ♥️!</p>
+    </div>
+</body>
+</html>
